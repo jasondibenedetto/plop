@@ -1,0 +1,19 @@
+{
+  "name": "plop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "case": "^1.4.1",
+    "commander": "^2.9.0",
+    "onecolor": "^3.0.4"
+  },
+  "bin": {
+    "plop": "index.js"
+  }
+}
