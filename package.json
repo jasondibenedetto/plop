@@ -1,6 +1,6 @@
 {
-  "name": "plop",
-  "version": "0.0.1",
+  "name": "@jasondibenedetto/plop",
+  "version": "0.0.2",
   "description": "Unique and memorable names for color variables.",
   "author": {
     "name": "Jason Di Benedetto",

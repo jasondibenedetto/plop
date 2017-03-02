@@ -3,7 +3,7 @@
 Generate unique and memorable names to make color variables easier to manage.
 
 ## Install
-`yarn global install @jasondibenedetto/plop`
+`yarn global add @jasondibenedetto/plop`
 
 ## Usage
 

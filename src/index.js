@@ -21,7 +21,7 @@ function fetchColorName(color, options) {
 }
 
 program
-  .version(process.env.npm_package_version)
+  .version('0.0.2')
   .arguments('<color>')
   .option('-k, --kebab', 'fetch color in kebab case')
   .action((color, options) => {
