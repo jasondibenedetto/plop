@@ -1,19 +1,29 @@
 {
   "name": "plop",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "version": "0.0.1",
+  "description": "Unique and memorable names for color variables.",
+  "author": {
+    "name": "Jason Di Benedetto",
+    "email": "jason.dibenedetto6@gmail.com",
+    "url": "http://jasondibenedetto.me"
   },
-  "author": "",
-  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jasondibenedetto/plop.git"
+  },
+  "license": "MIT",
+  "main": "./src/index.js",
+  "bin": {
+    "plop": "./src/index.js"
+  },
   "dependencies": {
     "case": "^1.4.1",
     "commander": "^2.9.0",
     "onecolor": "^3.0.4"
   },
-  "bin": {
-    "plop": "index.js"
+  "devDependencies": {
+    "eslint": "^3.16.1",
+    "eslint-config-airbnb-base": "^11.1.0",
+    "eslint-plugin-import": "^2.2.0"
   }
 }
