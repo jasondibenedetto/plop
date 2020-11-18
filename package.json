@@ -17,13 +17,13 @@
     "plop": "./src/index.js"
   },
   "dependencies": {
-    "case": "^1.4.1",
-    "commander": "^2.9.0",
-    "onecolor": "^3.0.4"
+    "case": "^1.6.3",
+    "commander": "^6.2.0",
+    "onecolor": "^3.1.0"
   },
   "devDependencies": {
-    "eslint": "^3.16.1",
-    "eslint-config-airbnb-base": "^11.1.0",
-    "eslint-plugin-import": "^2.2.0"
+    "eslint": "^7.13.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.22.1"
   }
 }
